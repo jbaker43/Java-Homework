@@ -3,7 +3,7 @@
  * This is a program that computes perimeter of a rectangle.
  *
  * @author (Jacob Baker)
- * @version (9/7/2018)
+ * @version (9/8/2018)
  */
 import java.awt.Rectangle;
 public class Perimeter
@@ -11,7 +11,7 @@ public class Perimeter
     public static void main(String[] arg) 
     {
   { 
-      Rectangle box = new Rectangle(10,25,35,35);
+      Rectangle box = new Rectangle(11,25,35,35);
       System.out.println(new Rectangle());
       String name = "Width";
       System.out.println(box.getWidth());
