@@ -1,8 +1,7 @@
 
 /**
  * MyCalculator adds, subtracts, multiplies and divides.
- *
- * @Jacob Baker
+ *@author jakebaker
  * 10/01/2018
  */
 public class MyCalculator

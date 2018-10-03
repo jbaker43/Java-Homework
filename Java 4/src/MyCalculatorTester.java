@@ -1,3 +1,8 @@
+/**
+ * Tester for the MyCalculator class
+ * @author jakebaker
+ * 09/02/2018
+ */
 import java.util.Scanner;
 
 public class MyCalculatorTester {
