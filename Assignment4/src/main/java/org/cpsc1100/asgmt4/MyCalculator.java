@@ -1,3 +1,4 @@
+package org.cpsc1100.asgmt4;
 
 /**
  * MyCalculator adds, subtracts, multiplies and divides.
@@ -7,7 +8,7 @@
  */
 public class MyCalculator
 {
-    public int add( int X, int Y)
+    public int add(int X, int Y)
     {
         return X + Y;
     }
@@ -40,4 +41,3 @@ public class MyCalculator
         return X / Y;
     }
 }
-   
