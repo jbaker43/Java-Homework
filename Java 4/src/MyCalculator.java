@@ -1,4 +1,3 @@
-
 /**
  * MyCalculator adds, subtracts, multiplies and divides.
  *@author jakebaker

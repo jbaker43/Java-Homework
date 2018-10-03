@@ -1,5 +1,5 @@
-/**
- * Tester for the MyCalculator class
+/** 
+* Tester for the MyCalculator class
  * @author jakebaker
  * 09/02/2018
  */
