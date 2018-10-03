@@ -1,6 +1,6 @@
 /**
  * reports number of bugs
- * @jakebaker
+ * @jake baker
  * 09/04/2018
  */
 public class Bug 
