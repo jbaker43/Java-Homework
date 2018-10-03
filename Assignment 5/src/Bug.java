@@ -1,6 +1,6 @@
 /**
  * reports number of bugs
- * Jokebaker
+ * Joke baker
  * 09/04/2018
  */
 public class Bug 
